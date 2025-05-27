@@ -70,14 +70,6 @@ amounts of lemons, sugar, and ice from the two `Lemonade` objects, and then
 create a new `Lemonade` object using these combined values to call the
 `Lemonade` constructor that takes three parameters.
 
-## Verifying Your Solution
-
-Once you have completed the exercises, run the tests in the tests folder to
-verify that your solutions are correct.
-
-You should also manually verify that your solution is correct by running the
-`Main` class and interacting with the console UI in the bottom terminal window.
-
 ## Additional Challenge
 
 If you finish and want an additional challenge, try adding yet another
